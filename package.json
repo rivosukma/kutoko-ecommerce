@@ -1,0 +1,25 @@
+{
+  "name": "kutoko-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.1.3",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "axios": "^0.22.0",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@emotion/babel-plugin": "^11.3.0",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
